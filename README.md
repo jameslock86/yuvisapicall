@@ -6,11 +6,17 @@ Yep, got them right here for you
 credentials for api call 
 
 nyc070     admin    iA1wS46zi10Y
+
 nyc070     user0    s1uqUKZFjDlu
+
 nyc070     user1    yjhSX3ueUu58
+
 nyc070     user2    pcvs6rfLDv76
+
 nyc070     user3    o4VzZZlBCtak
+
 nyc070     user4    ctHQcUBovEDu
+
 
 https://app.swaggerhub.com/apis-docs/osroot/yuuvis/1.0
 
